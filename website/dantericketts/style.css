@@ -32,12 +32,13 @@ h1
 
 h2
 {
-    font-size: 20px
+    font-size: 20px;
     text-align: left;
 }
 
 h3
 {
+    
     font-size: 15px
     text-align: left;
 }
@@ -115,3 +116,20 @@ img
     height: 150px;
 }
     
+.header-links,
+.header-links2,
+.header-links3
+{
+    display: inline-block;
+    margin-right: 30px;
+    
+}
+.header-links{
+    text-align: left;
+}
+.header-links2{
+    text-align: center;
+}
+.header-links3{
+    text-align: right;
+}
