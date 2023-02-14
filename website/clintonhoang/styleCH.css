@@ -1,0 +1,149 @@
+body
+{
+    background-image: url("background.png");
+    background-size: 100%;
+    background-repeat: repeat;
+    font-family: Consolas; 
+    font-style: normal; 
+    font-variant: normal;
+    color: hsl(60,50%,90%);
+    background-color: hsl(210,8%,15%);
+}
+/* checker colors "light" and "dark": hsl(157, 84%, 87%) hsl(157, 100%, 49%)*/
+div
+{
+    max-width: 750px;
+    margin: 20px auto;
+    padding: 1px 1px;
+    background-color: hsl(210,8%,20%);
+    opacity: 0.95;
+    border: 5px;
+    border-style: hidden hidden hidden solid;
+}
+span
+{
+    padding: 5px;
+    margin-bottom: 5px;
+}
+h1
+{
+    text-align: center;
+}
+
+h2
+{
+    font-size: 20px
+    text-align: left;
+}
+
+h3
+{
+    font-size: 15px
+    text-align: left;
+}
+
+section
+{
+    max-width: 90%;
+    margin: 5px auto;
+}
+
+table
+{
+    max-width: 95%;
+    font-size: 15px;
+    margin-left: 5%;
+}
+table.nb
+{
+    
+    width:100%;
+    font-size: 20px;
+}
+td
+{
+    border: 5px;
+    border-style: hidden hidden hidden solid;
+    padding: 5px;
+}
+td.nb
+{
+    border: none;
+    padding: 5px;
+}
+
+a
+{
+    font-size: 20px;
+}
+
+a:link
+{
+    text-decoration: none;
+    color: hsl(0, 65%, 50%);
+}
+a:visited
+{
+    text-decoration: none;
+    color: hsl(0, 65%, 50%);
+}
+a:hover
+{
+    color: hsl(0, 60%, 67%);
+}
+a:active
+{
+    color: hsl(0, 60%, 67%);
+} 
+
+ul
+{
+    font-size:22px;
+    list-style-type: square;
+    list-style-position: inside;
+}
+.center
+{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+img
+{
+    width: 150px;
+    height: 150px;
+}
+    
+.shortBio
+{
+    text-align: center;
+}
+
+.profilePic
+{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0px auto;
+    
+}
+
+.cutePic
+{
+    width: 30%;
+    height: 50%;
+    display: block;
+    margin: 0px auto;
+}
+
+.imgLink1
+{
+    margin: 0px 50px;
+}
+
+.imgLink2
+{
+    margin: 0px 100px;
+    
+}
