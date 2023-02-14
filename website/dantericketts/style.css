@@ -38,7 +38,6 @@ h2
 
 h3
 {
-    
     font-size: 15px
     text-align: left;
 }
@@ -121,11 +120,13 @@ img
 .header-links3
 {
     display: inline-block;
-    margin-right: 30px;
+    margin-right: 10px;
     
 }
 .header-links{
+    font-size: 20px;
     text-align: left;
+    color: hsl(0, 65%, 50%);
 }
 .header-links2{
     text-align: center;
