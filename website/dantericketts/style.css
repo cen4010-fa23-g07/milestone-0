@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("background.png");
+    background-image: url("../background.png");
     background-size: 100%;
     background-repeat: repeat;
     font-family: Consolas; 
