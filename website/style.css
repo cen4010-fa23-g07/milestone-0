@@ -102,6 +102,12 @@ ul
     list-style-type: square;
     list-style-position: inside;
 }
+ul.small
+{
+    font-size: medium;
+    list-style-type: square;
+    list-style-position: inside;
+}
 .center
 {
      display: block;
