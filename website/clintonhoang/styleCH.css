@@ -102,12 +102,6 @@ ul
     list-style-type: square;
     list-style-position: inside;
 }
-ul.small
-{
-    font-size: medium;
-    list-style-type: square;
-    list-style-position: inside;
-}
 .center
 {
      display: block;
@@ -121,3 +115,35 @@ img
     height: 150px;
 }
     
+.shortBio
+{
+    text-align: center;
+}
+
+.profilePic
+{
+    width: 150px;
+    height: 150px;
+    display: block;
+    margin: 0px auto;
+    
+}
+
+.cutePic
+{
+    width: 30%;
+    height: 50%;
+    display: block;
+    margin: 0px auto;
+}
+
+.imgLink1
+{
+    margin: 0px 50px;
+}
+
+.imgLink2
+{
+    margin: 0px 100px;
+    
+}
